@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berkanyilmz
 - 👀 I’m interested in video game, cinema and book(especially crime book), programming
-- 🌱 I’m currently learning image processing, machine learning, html, css, bootstrap
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
